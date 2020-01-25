@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "266013387831",
+    "firebase_url": "https://chat-df280.firebaseio.com",
+    "project_id": "chat-df280",
+    "storage_bucket": "chat-df280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266013387831:android:b141b35c63a70d60d9e3b2",
+        "android_client_info": {
+          "package_name": "info.klim9.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266013387831-oje9hlift5etukipod3t4ejtk3vej5m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAasI3HgPjcAMsI2rnryRdkSQoxCg84IvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266013387831-oje9hlift5etukipod3t4ejtk3vej5m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266013387831:android:1c2cde2ec0699086d9e3b2",
+        "android_client_info": {
+          "package_name": "ru.bk.klim9.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266013387831-oje9hlift5etukipod3t4ejtk3vej5m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAasI3HgPjcAMsI2rnryRdkSQoxCg84IvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266013387831-oje9hlift5etukipod3t4ejtk3vej5m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

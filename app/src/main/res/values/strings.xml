@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Чат</string>
+
+    <string name="screen_register">Registration</string>
+    <string name="screen_login">Authorization</string>
+    <string name="screen_friends">Friends</string>
+    <string name="screen_account">Account</string>
+    <string name="screen_user">User</string>
+
+    <string name="error_network">There is no network connectivity.</string>
+    <string name="error_server">Server error.</string>
+    <string name="error_email_already_exist">Email address already exists.</string>
+    <string name="error_password_mismatch">Passwords don\'t match.</string>
+    <string name="error_auth">Incorrect email or password.</string>
+    <string name="error_already_friend">Is already your friend.</string>
+    <string name="error_already_requested_friend">The friendship request has already been sent.</string>
+    <string name="error_contact_not_found">The user was not found.</string>
+    <string name="error_picking_file">Error processing the file, try again</string>
+    <string name="error_wrong_password">Wrong password</string>
+    <string name="error_empty_password">The password field cannot be empty</string>
+
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm your password</string>
+    <string name="name">Name</string>
+    <string name="register">Registration</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="dont_have_account">No account yet?</string>
+    <string name="forget_password">Forgot your password?</string>
+    <string name="login">Login</string>
+    <string name="chats">Chats</string>
+    <string name="friends">Friends</string>
+    <string name="add_friend">Invited friend</string>
+    <string name="profile">Account</string>
+    <string name="friend_requests">Incoming invitations</string>
+    <string name="logout">Logout</string>
+
+    <string name="name_colon">Name:</string>
+    <string name="email_colon">Email:</string>
+    <string name="status">Status</string>
+    <string name="status_colon">Status:</string>
+    <string name="current_password">Current password</string>
+    <string name="current_password_colon">Current password:</string>
+    <string name="new_password">New password</string>
+    <string name="new_password_colon">New password:</string>
+    <string name="update_account">Update your account</string>
+    <string name="send_request">Send a request</string>
+
+    <string name="wants_add_as_friend">wants to add you to the friends list</string>
+    <string name="approved_friend_request">accepted your friend request</string>
+    <string name="cancelled_friend_request">cancels the request to add to friends</string>
+
+    <string name="delete_friend">Delete a friend?</string>
+
+    <string name="message_promt_app">The user with the specified email address was not found. Want to send him a link to the app?</string>
+    <string name="message_text_promt_app">Install the personal chat app:</string>
+    <string name="message_subject_promt_app">Hi, can we talk?</string>
+    <string name="url_google_play">https://play.google.com/store/apps/details?id=</string>
+
+    <string name="friend_request">Friend request</string>
+    <string name="friend_request_approved">Friend request confirmed</string>
+    <string name="friend_request_cancelled">Friend request canceled</string>
+
+    <string name="pick">Select a photo</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+
+    <string name="success_edit_user">Data updated</string>
+    <string name="message">Message</string>
+    <string name="send_message">отправляет вам сообщение</string>
+
+    <string name="photo">Photo</string>
+
+    <string name="remove_message">Delete a message?</string>
+
+    <string name="send_friend_message">Send message</string>
+
+
+</resources>
